@@ -1,0 +1,401 @@
+Id,cuitan,sentimen
+1,"Kenyataannya Coretax sama sekali gak praktis buat lapor SPT.",Negatif
+2,"udah seharian database nggak sinkron, mohon dievaluasi.",Negatif
+3,"Sistem coretax lumayan membantu, kadang lancar kadang error.",Netral
+4,"Menurut saya proses lapor cepat, wajib pajak jadi tenang.",Positif
+5,"Wah sekarang sistem coretax tidak lelet kaya dulu buat bayar pajak bulanan.",Positif
+6,"Web e-faktur baru sangat sangat membantu pokoknya mantap bgt.",Positif
+7,"Menurut saya fitur Coretax lengkap, wajib pajak jadi tenang.",Positif
+8,"bikin emosi, coretax buruk sekali parah, tiap awal bulan pasti begini.",Negatif
+9,"besok mau coba akses coretax siap-siap aja deh.",Netral
+10,"Meskipun baru, mudah-mudahan segera diperbaiki demi kemudahan wajib pajak.",Netral
+11,"Meskipun baru, semoga bug nya ilang bulan depan untuk layanan DJP yang lebih baik.",Netral
+12,"ini benar-benar gampang asli keren banget.",Positif
+13,"Update baru bukan solusi yang baik buat lapor SPT.",Negatif
+14,"Bagus deh sinkronisasi data otomatis, gak pusing lagi ngerjain pajak.",Positif
+15,"parah bgt servernya lemot banget astaga, tiap awal bulan pasti begini.",Negatif
+16,"Udah seharian SPT PPN error 500, deadline makin mepet nih.",Negatif
+17,"Melihat update ini, semoga makin oke ya min.",Netral
+18,"Sistem baru ini nggak gampang diakses malah nambah beban.",Negatif
+19,"Besok mau coba akses coretax buat nyiapin data bulan ini.",Netral
+20,"Kecewa, bukan solusi yang baik malah nambah beban.",Negatif
+21,"Hari ini mau nanya soal fitur e-faktur di coretax ada yang tau caranya?",Netral
+22,"keren, sistem coretax nggak susah diakses buat bayar pajak bulanan.",Positif
+23,"Ini benar-benar gampang asli keren banget.",Positif
+24,"Meskipun baru, semoga makin oke supaya kita ga telat lapor.",Netral
+25,"Menurut saya antarmuka mudah dipahami, makin mantap DJP.",Positif
+26,"semenjak update, aplikasi djp bukan aplikasi buruk banget euy.",Positif
+27,"Lagi-lagi loading muter terus gak selesai, admin tolong segera perbaiki!",Negatif
+28,"Keren, Coretax tanpa kendala loading pas mau lapor SPT.",Positif
+29,"Setelah pake Coretax, berharap kedepannya lancar demi kemudahan wajib pajak.",Netral
+30,"Ya kalau dibilang sih cukup memadai, mendingan daripada sistem lama.",Netral
+31,"Aduh sangat sangat mengecewakan, tiap awal bulan pasti begini.",Negatif
+32,"Menurut saya fitur Coretax lengkap, makin mantap DJP.",Positif
+33,"udah seharian gagal upload csv berulang, admin tolong segera perbaiki!",Negatif
+34,"Melihat update ini, semoga makin oke untuk layanan DJP yang lebih baik.",Netral
+35,"Aduh bikin emosi tingkat tinggi, tiap awal bulan pasti begini.",Negatif
+36,"Parah bgt Coretax buruk sekali parah, tiap awal bulan pasti begini.",Negatif
+37,"Aplikasi DJP super cepat resposnya pokoknya mantap bgt.",Positif
+38,"Bikin emosi, bikin emosi tingkat tinggi, tiap awal bulan pasti begini.",Negatif
+39,"Udah seharian server down awal bulan, mohon dievaluasi.",Negatif
+40,"Keren, sistem coretax gak ribet lagi loh.",Positif
+41,"Web e-faktur baru super cepat resposnya asli keren banget.",Positif
+42,"Sistem Coretax super cepat resposnya pokoknya mantap bgt.",Positif
+43,"Meskipun baru, turut berkembang terus supaya kita ga telat lapor.",Netral
+44,"Update baru nggak gampang diakses buat lapor SPT.",Negatif
+45,"Sistem Coretax amat sangat mudah buat wajib pajak.",Positif
+46,"Sistem Coretax lancar banget jaya pokoknya mantap bgt.",Positif
+47,"Suka banget karena sinkronisasi data otomatis, makin mantap DJP.",Positif
+48,"Meskipun baru, semoga makin oke ya min.",Netral
+49,"Parah, sama sekali gak praktis malah nambah beban.",Negatif
+50,"Udah seharian database nggak sinkron, admin tolong segera perbaiki!",Negatif
+51,"Web e-faktur baru lancar banget jaya asli keren banget.",Positif
+52,"aplikasi djp sangat sangat membantu buat wajib pajak.",Positif
+53,"Tolong dong DJP, database nggak sinkron, mohon dievaluasi.",Negatif
+54,"Kecewa, gak lancar dipake bagi wajib pajak.",Negatif
+55,"Bikin emosi, sangat sangat mengecewakan, tiap awal bulan pasti begini.",Negatif
+56,"Akhirnya sistem pajak ini tidak lelet kaya dulu banget euy.",Positif
+57,"Suka banget karena antarmuka mudah dipahami, makin mantap DJP.",Positif
+58,"Semenjak update, Coretax nggak susah diakses loh.",Positif
+59,"Nilai plusnya sinkronisasi data otomatis, wajib pajak jadi tenang.",Positif
+60,"sistem coretax lumayan lah, mendingan daripada sistem lama.",Netral
+61,"Sistem coretax cukup untuk dasar, yah biasa aja sih.",Netral
+62,"Nanti malam lagi baca buku panduan coretax buat nyiapin data bulan ini.",Netral
+63,"Sejauh ini standar aja, kadang lancar kadang error.",Netral
+64,"Hari ini SPT PPN error 500, admin tolong segera perbaiki!",Negatif
+65,"nilai plusnya proses lapor cepat, gak pusing lagi ngerjain pajak.",Positif
+66,"Hari ini jadwal lapor spt udah deket nih siap-siap aja deh.",Netral
+67,"Lagi-lagi SPT PPN error 500, mohon dievaluasi.",Negatif
+68,"Menurutku lumayan membantu, yah biasa aja sih.",Netral
+69,"Menurut saya proses lapor cepat, makin mantap DJP.",Positif
+70,"Tolong dong DJP, database nggak sinkron, admin tolong segera perbaiki!",Negatif
+71,"Sejauh ini standar aja, mendingan daripada sistem lama.",Netral
+72,"Parah bgt Coretax buruk sekali parah, kapan benernya sih.",Negatif
+73,"sejauh ini lumayan lah, tapi masih ada bug sedikit.",Netral
+74,"setelah pake coretax, turut berkembang terus supaya kita ga telat lapor.",Netral
+75,"Besok jadwal lapor spt udah deket nih ada yang tau caranya?",Netral
+76,"Semenjak update, sistem coretax gak ribet lagi banget euy.",Positif
+77,"Akhirnya aplikasi DJP tanpa kendala loading buat bayar pajak bulanan.",Positif
+78,"Aplikasi DJP sangat sangat membantu untuk urus SPT.",Positif
+79,"sistem coretax cukup memadai, yah biasa aja sih.",Netral
+80,"Lagi-lagi database nggak sinkron, deadline makin mepet nih.",Negatif
+81,"Hari ini lagi baca buku panduan coretax ada yang tau caranya?",Netral
+82,"sejauh ini cukup untuk dasar, buat lapor bulanan.",Netral
+83,"Aduh Coretax buruk sekali parah, stres ngerjainnya.",Negatif
+84,"Udah seharian server down awal bulan, deadline makin mepet nih.",Negatif
+85,"Sistem Coretax super cepat resposnya buat wajib pajak.",Positif
+86,"Menurut saya fitur Coretax lengkap, gak pusing lagi ngerjain pajak.",Positif
+87,"Aplikasi DJP sangat sangat membantu pokoknya mantap bgt.",Positif
+88,"aplikasi djp benar-benar gampang buat wajib pajak.",Positif
+89,"suka banget karena antarmuka mudah dipahami, makin mantap djp.",Positif
+90,"Parah, bukan solusi yang baik buat lapor SPT.",Negatif
+91,"sejauh ini lumayan membantu, tapi masih ada bug sedikit.",Netral
+92,"Web e-faktur baru benar-benar gampang buat wajib pajak.",Positif
+93,"Parah, nggak gampang diakses sama sekali.",Negatif
+94,"Menurutku lumayan lah, yah biasa aja sih.",Netral
+95,"meskipun baru, semoga makin oke supaya kita ga telat lapor.",Netral
+96,"Meskipun baru, berharap kedepannya lancar ya min.",Netral
+97,"Bagus deh UI nya sangat bersih, makin mantap DJP.",Positif
+98,"Tolong dong DJP, loading muter terus gak selesai, admin tolong segera perbaiki!",Negatif
+99,"Melihat update ini, semoga bug nya ilang bulan depan untuk layanan DJP yang lebih baik.",Netral
+100,"Setelah pake Coretax, semoga bug nya ilang bulan depan demi kemudahan wajib pajak.",Netral
+101,"Besok mau nanya soal fitur e-faktur di coretax buat nyiapin data bulan ini.",Netral
+102,"Wah sekarang Coretax nggak susah diakses loh.",Positif
+103,"Menurut saya antarmuka mudah dipahami, bikin kerjaan cepet kelar.",Positif
+104,"Menurut saya sinkronisasi data otomatis, wajib pajak jadi tenang.",Positif
+105,"Menurutku cukup memadai, yah biasa aja sih.",Netral
+106,"Nilai plusnya UI nya sangat bersih, makin mantap DJP.",Positif
+107,"Nilai plusnya antarmuka mudah dipahami, makin mantap DJP.",Positif
+108,"Sejauh ini lumayan lah, mendingan daripada sistem lama.",Netral
+109,"aplikasi djp lancar banget jaya untuk urus spt.",Positif
+110,"Nanti malam mau nanya soal fitur e-faktur di coretax buat nyiapin data bulan ini.",Netral
+111,"Bagus deh antarmuka mudah dipahami, makin mantap DJP.",Positif
+112,"Sistem Coretax sangat sangat membantu untuk urus SPT.",Positif
+113,"Wah sekarang sistem pajak ini bukan aplikasi buruk banget euy.",Positif
+114,"ya kalau dibilang sih lumayan lah, mendingan daripada sistem lama.",Netral
+115,"Ini super cepat resposnya pokoknya mantap bgt.",Positif
+116,"Sistem Coretax lancar banget jaya untuk urus SPT.",Positif
+117,"menurut saya fitur coretax lengkap, gak pusing lagi ngerjain pajak.",Positif
+118,"Sistem baru ini gak lancar dipake bagi wajib pajak.",Negatif
+119,"Udah seharian gagal upload CSV berulang, deadline makin mepet nih.",Negatif
+120,"Kecewa, sama sekali gak praktis buat lapor SPT.",Negatif
+121,"Meskipun baru, semoga makin oke untuk layanan DJP yang lebih baik.",Netral
+122,"Kenyataannya Coretax gak lancar dipake buat lapor SPT.",Negatif
+123,"Bagus deh UI nya sangat bersih, wajib pajak jadi tenang.",Positif
+124,"Ya kalau dibilang sih standar aja, buat lapor bulanan.",Netral
+125,"parah, nggak gampang diakses bagi wajib pajak.",Negatif
+126,"Web e-faktur baru sangat sangat membantu asli keren banget.",Positif
+127,"nanti malam mau nanya soal fitur e-faktur di coretax di laptop.",Netral
+128,"tolong dong djp, spt ppn error 500, deadline makin mepet nih.",Negatif
+129,"Setelah pake Coretax, mudah-mudahan segera diperbaiki untuk layanan DJP yang lebih baik.",Netral
+130,"Ya kalau dibilang sih cukup untuk dasar, kadang lancar kadang error.",Netral
+131,"Hari ini server down awal bulan, bikin laporan telat.",Negatif
+132,"Bagus deh sinkronisasi data otomatis, wajib pajak jadi tenang.",Positif
+133,"aduh sangat sangat mengecewakan, gak bisa lapor sama sekali.",Negatif
+134,"menurutku lumayan membantu, yah biasa aja sih.",Netral
+135,"Tolong dong DJP, gagal upload CSV berulang, admin tolong segera perbaiki!",Negatif
+136,"Wah sekarang sistem pajak ini gak ribet lagi sama sekali.",Positif
+137,"Parah, tidak membantu sama sekali.",Negatif
+138,"Nilai plusnya fitur Coretax lengkap, wajib pajak jadi tenang.",Positif
+139,"Keren, Coretax tidak error sama sekali banget euy.",Positif
+140,"Update baru nggak gampang diakses malah nambah beban.",Negatif
+141,"setelah pake coretax, semoga makin oke untuk layanan djp yang lebih baik.",Netral
+142,"lagi-lagi gagal upload csv berulang, deadline makin mepet nih.",Negatif
+143,"Keren, Coretax tidak error sama sekali pas mau lapor SPT.",Positif
+144,"Aplikasi DJP super cepat resposnya asli keren banget.",Positif
+145,"Sistem Coretax sangat sangat membantu buat wajib pajak.",Positif
+146,"Bikin emosi, servernya lemot banget astaga, stres ngerjainnya.",Negatif
+147,"besok mau coba akses coretax ada yang tau caranya?",Netral
+148,"Hari ini database nggak sinkron, bikin laporan telat.",Negatif
+149,"Udah seharian server down awal bulan, admin tolong segera perbaiki!",Negatif
+150,"Suka banget karena fitur Coretax lengkap, bikin kerjaan cepet kelar.",Positif
+151,"Ya kalau dibilang sih lumayan membantu, buat lapor bulanan.",Netral
+152,"Bagus deh proses lapor cepat, bikin kerjaan cepet kelar.",Positif
+153,"Sistem baru ini nggak gampang diakses buat lapor SPT.",Negatif
+154,"Udah seharian database nggak sinkron, bikin laporan telat.",Negatif
+155,"Sejauh ini cukup untuk dasar, kadang lancar kadang error.",Netral
+156,"Aduh sangat sangat mengecewakan, stres ngerjainnya.",Negatif
+157,"Menurutku lumayan membantu, mendingan daripada sistem lama.",Netral
+158,"Menurut saya proses lapor cepat, gak pusing lagi ngerjain pajak.",Positif
+159,"nanti malam mau coba akses coretax di laptop.",Netral
+160,"bikin emosi, bikin emosi tingkat tinggi, stres ngerjainnya.",Negatif
+161,"akhirnya sistem coretax gak ribet lagi loh.",Positif
+162,"Hari ini mau coba akses coretax di laptop.",Netral
+163,"Web e-faktur baru lancar banget jaya buat wajib pajak.",Positif
+164,"Nanti malam mau nanya soal fitur e-faktur di coretax ada yang tau caranya?",Netral
+165,"Wah sekarang aplikasi DJP tidak error sama sekali pas mau lapor SPT.",Positif
+166,"Akhirnya Coretax tidak lelet kaya dulu buat bayar pajak bulanan.",Positif
+167,"Kecewa, gak lancar dipake sama sekali.",Negatif
+168,"Jujur aplikasi DJP tidak error sama sekali banget euy.",Positif
+169,"Kenyataannya Coretax bukan solusi yang baik sama sekali.",Negatif
+170,"lagi-lagi gagal upload csv berulang, bikin laporan telat.",Negatif
+171,"Keren, sistem pajak ini tidak error sama sekali sama sekali.",Positif
+172,"ini super cepat resposnya untuk urus spt.",Positif
+173,"Udah seharian gagal upload CSV berulang, mohon dievaluasi.",Negatif
+174,"Semenjak update, Coretax tanpa kendala loading pas mau lapor SPT.",Positif
+175,"Melihat update ini, berharap kedepannya lancar supaya kita ga telat lapor.",Netral
+176,"Parah bgt servernya lemot banget astaga, kapan benernya sih.",Negatif
+177,"keren, aplikasi djp bukan aplikasi buruk sama sekali.",Positif
+178,"Parah, bukan solusi yang baik sama sekali.",Negatif
+179,"Sistem baru ini sama sekali gak praktis bagi wajib pajak.",Negatif
+180,"Sejauh ini lumayan membantu, tapi masih ada bug sedikit.",Netral
+181,"Melihat update ini, semoga makin oke demi kemudahan wajib pajak.",Netral
+182,"Ya kalau dibilang sih lumayan membantu, mendingan daripada sistem lama.",Netral
+183,"kenyataannya coretax tidak membantu buat lapor spt.",Negatif
+184,"Akhirnya Coretax bukan aplikasi buruk pas mau lapor SPT.",Positif
+185,"sistem coretax lumayan membantu, kadang lancar kadang error.",Netral
+186,"lagi-lagi database nggak sinkron, admin tolong segera perbaiki!",Negatif
+187,"Setelah pake Coretax, berharap kedepannya lancar ya min.",Netral
+188,"keren, sistem coretax tanpa kendala loading pas mau lapor spt.",Positif
+189,"Wah sekarang aplikasi DJP tidak error sama sekali banget euy.",Positif
+190,"Hari ini mau nanya soal fitur e-faktur di coretax siap-siap aja deh.",Netral
+191,"Keren, Coretax bukan aplikasi buruk buat bayar pajak bulanan.",Positif
+192,"Jujur sistem coretax tidak lelet kaya dulu buat bayar pajak bulanan.",Positif
+193,"Kenyataannya Coretax bukan solusi yang baik malah nambah beban.",Negatif
+194,"Lagi-lagi server down awal bulan, bikin laporan telat.",Negatif
+195,"Ampun deh, sangat sangat mengecewakan, gak bisa lapor sama sekali.",Negatif
+196,"Jujur aplikasi DJP gak ribet lagi sama sekali.",Positif
+197,"Sejauh ini lumayan membantu, kadang lancar kadang error.",Netral
+198,"Melihat update ini, semoga makin oke supaya kita ga telat lapor.",Netral
+199,"aduh coretax buruk sekali parah, tiap awal bulan pasti begini.",Negatif
+200,"Udah seharian SPT PPN error 500, bikin laporan telat.",Negatif
+201,"Jujur Coretax tidak lelet kaya dulu loh.",Positif
+202,"sejauh ini lumayan membantu, buat lapor bulanan.",Netral
+203,"Hari ini mau coba akses coretax siap-siap aja deh.",Netral
+204,"Sistem Coretax super cepat resposnya asli keren banget.",Positif
+205,"Sistem coretax lumayan membantu, mendingan daripada sistem lama.",Netral
+206,"hari ini database nggak sinkron, bikin laporan telat.",Negatif
+207,"Update baru tidak user friendly malah nambah beban.",Negatif
+208,"parah bgt servernya lemot banget astaga, stres ngerjainnya.",Negatif
+209,"sistem coretax lancar banget jaya buat wajib pajak.",Positif
+210,"Suka banget karena proses lapor cepat, bikin kerjaan cepet kelar.",Positif
+211,"bikin emosi, servernya lemot banget astaga, kapan benernya sih.",Negatif
+212,"Sistem coretax lumayan membantu, tapi masih ada bug sedikit.",Netral
+213,"Sejauh ini lumayan membantu, mendingan daripada sistem lama.",Netral
+214,"Suka banget karena antarmuka mudah dipahami, wajib pajak jadi tenang.",Positif
+215,"Tolong dong DJP, SPT PPN error 500, bikin laporan telat.",Negatif
+216,"Ini benar-benar gampang pokoknya mantap bgt.",Positif
+217,"bikin emosi, servernya lemot banget astaga, tiap awal bulan pasti begini.",Negatif
+218,"Menurutku cukup untuk dasar, yah biasa aja sih.",Netral
+219,"Parah bgt bikin emosi tingkat tinggi, kapan benernya sih.",Negatif
+220,"aduh servernya lemot banget astaga, stres ngerjainnya.",Negatif
+221,"Aduh bikin emosi tingkat tinggi, kapan benernya sih.",Negatif
+222,"Besok mau coba akses coretax siap-siap aja deh.",Netral
+223,"Aduh servernya lemot banget astaga, stres ngerjainnya.",Negatif
+224,"Parah bgt servernya lemot banget astaga, tiap awal bulan pasti begini.",Negatif
+225,"Kecewa, tidak membantu sama sekali.",Negatif
+226,"Sistem Coretax benar-benar gampang buat wajib pajak.",Positif
+227,"Nilai plusnya sinkronisasi data otomatis, bikin kerjaan cepet kelar.",Positif
+228,"Bagus deh proses lapor cepat, gak pusing lagi ngerjain pajak.",Positif
+229,"udah seharian loading muter terus gak selesai, bikin laporan telat.",Negatif
+230,"Nanti malam login DJP online ada yang tau caranya?",Netral
+231,"Parah, gak lancar dipake buat lapor SPT.",Negatif
+232,"Sistem coretax cukup untuk dasar, mendingan daripada sistem lama.",Netral
+233,"Wah sekarang aplikasi DJP tidak error sama sekali buat bayar pajak bulanan.",Positif
+234,"Besok mau nanya soal fitur e-faktur di coretax ada yang tau caranya?",Netral
+235,"keren, sistem pajak ini tanpa kendala loading sama sekali.",Positif
+236,"Ampun deh, servernya lemot banget astaga, tiap awal bulan pasti begini.",Negatif
+237,"Melihat update ini, mudah-mudahan segera diperbaiki ya min.",Netral
+238,"Hari ini loading muter terus gak selesai, mohon dievaluasi.",Negatif
+239,"menurut saya ui nya sangat bersih, wajib pajak jadi tenang.",Positif
+240,"Menurutku standar aja, kadang lancar kadang error.",Netral
+241,"Sistem baru ini bukan solusi yang baik bagi wajib pajak.",Negatif
+242,"Kecewa, bukan solusi yang baik bagi wajib pajak.",Negatif
+243,"Menurutku cukup memadai, kadang lancar kadang error.",Netral
+244,"meskipun baru, semoga makin oke ya min.",Netral
+245,"Hari ini SPT PPN error 500, deadline makin mepet nih.",Negatif
+246,"Kecewa, tidak user friendly malah nambah beban.",Negatif
+247,"Nanti malam login DJP online di laptop.",Netral
+248,"Lagi-lagi SPT PPN error 500, bikin laporan telat.",Negatif
+249,"Hari ini jadwal lapor spt udah deket nih buat nyiapin data bulan ini.",Netral
+250,"keren, sistem pajak ini tidak error sama sekali sama sekali.",Positif
+251,"Hari ini jadwal lapor spt udah deket nih di laptop.",Netral
+252,"Web e-faktur baru benar-benar gampang asli keren banget.",Positif
+253,"Ya kalau dibilang sih standar aja, kadang lancar kadang error.",Netral
+254,"Sejauh ini standar aja, tapi masih ada bug sedikit.",Netral
+255,"Jujur sistem coretax nggak susah diakses banget euy.",Positif
+256,"Nilai plusnya fitur Coretax lengkap, bikin kerjaan cepet kelar.",Positif
+257,"Tolong dong DJP, database nggak sinkron, bikin laporan telat.",Negatif
+258,"melihat update ini, semoga makin oke supaya kita ga telat lapor.",Netral
+259,"hari ini gagal upload csv berulang, admin tolong segera perbaiki!",Negatif
+260,"web e-faktur baru lancar banget jaya asli keren banget.",Positif
+261,"Ini sangat sangat membantu asli keren banget.",Positif
+262,"Parah, nggak gampang diakses buat lapor SPT.",Negatif
+263,"Sistem coretax lumayan lah, buat lapor bulanan.",Netral
+264,"hari ini lagi baca buku panduan coretax ada yang tau caranya?",Netral
+265,"Kenyataannya Coretax gak lancar dipake malah nambah beban.",Negatif
+266,"Akhirnya aplikasi DJP tanpa kendala loading banget euy.",Positif
+267,"Meskipun baru, semoga bug nya ilang bulan depan ya min.",Netral
+268,"Ya kalau dibilang sih cukup memadai, tapi masih ada bug sedikit.",Netral
+269,"Menurut saya sinkronisasi data otomatis, bikin kerjaan cepet kelar.",Positif
+270,"Melihat update ini, turut berkembang terus ya min.",Netral
+271,"aplikasi djp benar-benar gampang asli keren banget.",Positif
+272,"Keren, sistem pajak ini bukan aplikasi buruk loh.",Positif
+273,"Ampun deh, bikin emosi tingkat tinggi, kapan benernya sih.",Negatif
+274,"Parah bgt servernya lemot banget astaga, stres ngerjainnya.",Negatif
+275,"Hari ini server down awal bulan, admin tolong segera perbaiki!",Negatif
+276,"aduh servernya lemot banget astaga, kapan benernya sih.",Negatif
+277,"ya kalau dibilang sih cukup memadai, mendingan daripada sistem lama.",Netral
+278,"melihat update ini, mudah-mudahan segera diperbaiki supaya kita ga telat lapor.",Netral
+279,"Menurutku standar aja, mendingan daripada sistem lama.",Netral
+280,"Udah seharian SPT PPN error 500, mohon dievaluasi.",Negatif
+281,"setelah pake coretax, semoga bug nya ilang bulan depan ya min.",Netral
+282,"Melihat update ini, semoga bug nya ilang bulan depan supaya kita ga telat lapor.",Netral
+283,"Akhirnya sistem pajak ini gak ribet lagi banget euy.",Positif
+284,"Suka banget karena proses lapor cepat, makin mantap DJP.",Positif
+285,"hari ini server down awal bulan, deadline makin mepet nih.",Negatif
+286,"Ampun deh, bikin emosi tingkat tinggi, tiap awal bulan pasti begini.",Negatif
+287,"Sistem coretax lumayan membantu, yah biasa aja sih.",Netral
+288,"Besok mau coba akses coretax di laptop.",Netral
+289,"ini super cepat resposnya buat wajib pajak.",Positif
+290,"bikin emosi, coretax buruk sekali parah, kapan benernya sih.",Negatif
+291,"Parah bgt sangat sangat mengecewakan, kapan benernya sih.",Negatif
+292,"Wah sekarang Coretax tidak error sama sekali banget euy.",Positif
+293,"Akhirnya sistem pajak ini tidak lelet kaya dulu loh.",Positif
+294,"Besok jadwal lapor spt udah deket nih siap-siap aja deh.",Netral
+295,"Sejauh ini cukup memadai, buat lapor bulanan.",Netral
+296,"Jujur sistem coretax gak ribet lagi banget euy.",Positif
+297,"Suka banget karena sinkronisasi data otomatis, bikin kerjaan cepet kelar.",Positif
+298,"Ya kalau dibilang sih cukup untuk dasar, yah biasa aja sih.",Netral
+299,"hari ini login djp online ada yang tau caranya?",Netral
+300,"ya kalau dibilang sih lumayan lah, tapi masih ada bug sedikit.",Netral
+301,"jujur sistem coretax bukan aplikasi buruk banget euy.",Positif
+302,"Setelah pake Coretax, semoga makin oke demi kemudahan wajib pajak.",Netral
+303,"Tolong dong DJP, server down awal bulan, admin tolong segera perbaiki!",Negatif
+304,"Ampun deh, bikin emosi tingkat tinggi, gak bisa lapor sama sekali.",Negatif
+305,"Web e-faktur baru super cepat resposnya pokoknya mantap bgt.",Positif
+306,"Update baru tidak user friendly buat lapor SPT.",Negatif
+307,"Bagus deh fitur Coretax lengkap, gak pusing lagi ngerjain pajak.",Positif
+308,"Sistem baru ini bukan solusi yang baik sama sekali.",Negatif
+309,"Besok login DJP online siap-siap aja deh.",Netral
+310,"meskipun baru, berharap kedepannya lancar supaya kita ga telat lapor.",Netral
+311,"Nanti malam mau nanya soal fitur e-faktur di coretax siap-siap aja deh.",Netral
+312,"Sistem baru ini tidak membantu sama sekali.",Negatif
+313,"Bagus deh fitur Coretax lengkap, makin mantap DJP.",Positif
+314,"sistem baru ini gak lancar dipake bagi wajib pajak.",Negatif
+315,"kecewa, tidak membantu bagi wajib pajak.",Negatif
+316,"Sistem Coretax sangat sangat membantu asli keren banget.",Positif
+317,"Nanti malam lagi baca buku panduan coretax di laptop.",Netral
+318,"hari ini loading muter terus gak selesai, bikin laporan telat.",Negatif
+319,"besok mau coba akses coretax buat nyiapin data bulan ini.",Netral
+320,"Nilai plusnya sinkronisasi data otomatis, gak pusing lagi ngerjain pajak.",Positif
+321,"Hari ini gagal upload CSV berulang, deadline makin mepet nih.",Negatif
+322,"Besok login DJP online ada yang tau caranya?",Netral
+323,"Aplikasi DJP benar-benar gampang asli keren banget.",Positif
+324,"Melihat update ini, turut berkembang terus untuk layanan DJP yang lebih baik.",Netral
+325,"meskipun baru, turut berkembang terus untuk layanan djp yang lebih baik.",Netral
+326,"Hari ini SPT PPN error 500, bikin laporan telat.",Negatif
+327,"melihat update ini, turut berkembang terus ya min.",Netral
+328,"Setelah pake Coretax, turut berkembang terus ya min.",Netral
+329,"Aduh servernya lemot banget astaga, kapan benernya sih.",Negatif
+330,"ampun deh, coretax buruk sekali parah, gak bisa lapor sama sekali.",Negatif
+331,"Jujur aplikasi DJP tanpa kendala loading sama sekali.",Positif
+332,"hari ini loading muter terus gak selesai, deadline makin mepet nih.",Negatif
+333,"Hari ini mau nanya soal fitur e-faktur di coretax buat nyiapin data bulan ini.",Netral
+334,"Web e-faktur baru sangat sangat membantu untuk urus SPT.",Positif
+335,"Wah sekarang sistem coretax gak ribet lagi banget euy.",Positif
+336,"Melihat update ini, semoga bug nya ilang bulan depan demi kemudahan wajib pajak.",Netral
+337,"aduh sangat sangat mengecewakan, kapan benernya sih.",Negatif
+338,"Setelah pake Coretax, semoga makin oke untuk layanan DJP yang lebih baik.",Netral
+339,"Hari ini mau nanya soal fitur e-faktur di coretax di laptop.",Netral
+340,"ini amat sangat mudah buat wajib pajak.",Positif
+341,"Setelah pake Coretax, turut berkembang terus supaya kita ga telat lapor.",Netral
+342,"Nilai plusnya UI nya sangat bersih, gak pusing lagi ngerjain pajak.",Positif
+343,"Kenyataannya Coretax tidak user friendly sama sekali.",Negatif
+344,"Melihat update ini, mudah-mudahan segera diperbaiki untuk layanan DJP yang lebih baik.",Netral
+345,"Aplikasi DJP sangat sangat membantu asli keren banget.",Positif
+346,"Parah, gak lancar dipake bagi wajib pajak.",Negatif
+347,"Udah seharian loading muter terus gak selesai, mohon dievaluasi.",Negatif
+348,"Kecewa, tidak user friendly bagi wajib pajak.",Negatif
+349,"kenyataannya coretax tidak user friendly malah nambah beban.",Negatif
+350,"Meskipun baru, mudah-mudahan segera diperbaiki ya min.",Netral
+351,"Meskipun baru, semoga makin oke demi kemudahan wajib pajak.",Netral
+352,"Besok jadwal lapor spt udah deket nih buat nyiapin data bulan ini.",Netral
+353,"Nilai plusnya proses lapor cepat, bikin kerjaan cepet kelar.",Positif
+354,"udah seharian spt ppn error 500, deadline makin mepet nih.",Negatif
+355,"Melihat update ini, mudah-mudahan segera diperbaiki demi kemudahan wajib pajak.",Netral
+356,"Sejauh ini cukup untuk dasar, yah biasa aja sih.",Netral
+357,"Parah, tidak user friendly sama sekali.",Negatif
+358,"Web e-faktur baru amat sangat mudah buat wajib pajak.",Positif
+359,"ini lancar banget jaya asli keren banget.",Positif
+360,"Ini sangat sangat membantu pokoknya mantap bgt.",Positif
+361,"Parah, nggak gampang diakses bagi wajib pajak.",Negatif
+362,"Suka banget karena UI nya sangat bersih, bikin kerjaan cepet kelar.",Positif
+363,"Hari ini server down awal bulan, mohon dievaluasi.",Negatif
+364,"udah seharian gagal upload csv berulang, mohon dievaluasi.",Negatif
+365,"setelah pake coretax, semoga bug nya ilang bulan depan supaya kita ga telat lapor.",Netral
+366,"bikin emosi, sangat sangat mengecewakan, gak bisa lapor sama sekali.",Negatif
+367,"suka banget karena antarmuka mudah dipahami, wajib pajak jadi tenang.",Positif
+368,"setelah pake coretax, semoga bug nya ilang bulan depan untuk layanan djp yang lebih baik.",Netral
+369,"Wah sekarang sistem pajak ini tidak lelet kaya dulu loh.",Positif
+370,"Sistem coretax lumayan lah, yah biasa aja sih.",Netral
+371,"Web e-faktur baru lancar banget jaya untuk urus SPT.",Positif
+372,"sejauh ini cukup memadai, kadang lancar kadang error.",Netral
+373,"parah, tidak user friendly buat lapor spt.",Negatif
+374,"Hari ini mau coba akses coretax ada yang tau caranya?",Netral
+375,"Parah bgt sangat sangat mengecewakan, gak bisa lapor sama sekali.",Negatif
+376,"Udah seharian loading muter terus gak selesai, deadline makin mepet nih.",Negatif
+377,"Nanti malam login DJP online siap-siap aja deh.",Netral
+378,"Menurutku cukup memadai, tapi masih ada bug sedikit.",Netral
+379,"Sejauh ini cukup untuk dasar, buat lapor bulanan.",Netral
+380,"Aduh Coretax buruk sekali parah, tiap awal bulan pasti begini.",Negatif
+381,"Akhirnya sistem pajak ini bukan aplikasi buruk sama sekali.",Positif
+382,"Update baru gak lancar dipake malah nambah beban.",Negatif
+383,"Akhirnya aplikasi DJP bukan aplikasi buruk loh.",Positif
+384,"Hari ini login DJP online siap-siap aja deh.",Netral
+385,"Aplikasi DJP lancar banget jaya pokoknya mantap bgt.",Positif
+386,"Kenyataannya Coretax tidak membantu sama sekali.",Negatif
+387,"Menurut saya fitur Coretax lengkap, bikin kerjaan cepet kelar.",Positif
+388,"suka banget karena antarmuka mudah dipahami, gak pusing lagi ngerjain pajak.",Positif
+389,"Parah bgt Coretax buruk sekali parah, gak bisa lapor sama sekali.",Negatif
+390,"keren, coretax gak ribet lagi sama sekali.",Positif
+391,"Bagus deh antarmuka mudah dipahami, gak pusing lagi ngerjain pajak.",Positif
+392,"Web e-faktur baru benar-benar gampang untuk urus SPT.",Positif
+393,"Udah seharian gagal upload CSV berulang, admin tolong segera perbaiki!",Negatif
+394,"Meskipun baru, berharap kedepannya lancar untuk layanan DJP yang lebih baik.",Netral
+395,"Parah bgt sangat sangat mengecewakan, tiap awal bulan pasti begini.",Negatif
+396,"Sistem coretax cukup untuk dasar, tapi masih ada bug sedikit.",Netral
+397,"Kenyataannya Coretax tidak user friendly bagi wajib pajak.",Negatif
+398,"Ya kalau dibilang sih lumayan membantu, kadang lancar kadang error.",Netral
+399,"melihat update ini, turut berkembang terus untuk layanan djp yang lebih baik.",Netral
+400,"Besok jadwal lapor spt udah deket nih di laptop.",Netral
