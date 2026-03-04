@@ -321,13 +321,11 @@ class SentimenController extends Controller
                 $prediction = $response->json();
                 
                 $results = [[
-                    'source' => $platform,
-                    'author' => $metadata['author'] ?? 'Anonim',
-                    'date' => $metadata['date'] ?? date('d/m/Y'),
-                    'text' => $this->cleanExtractedContent($postText),
-                    'sentiment' => ucfirst($prediction['sentiment']),
-                    'confidence' => $this->getMaxProbability($prediction['probabilities']),
-                    'is_post' => true
+                    'source' => $platform . ': ' . $this->shortenUrl($url),
+                    'text' => $extractedText,
+                    'sentiment' => ucfirst($sentiment),
+                    'confidence' => $confidence,
+                    'is_reliable' => true
                 ]];
 
                 return redirect()->route('sentimen.index')
@@ -781,8 +779,35 @@ class SentimenController extends Controller
      */
     private function extractFromReddit($url)
     {
-        $data = $this->extractFromRedditWithComments($url);
-        return $data['post'];
+        try {
+            // Reddit public JSON API
+            $jsonUrl = rtrim($url, '/') . '.json';
+
+            $response = Http::timeout(10)
+                ->withHeaders(['User-Agent' => 'SentimenAnalysis/1.0 (Educational Project)'])
+                ->get($jsonUrl);
+
+            if ($response->successful()) {
+                $data = $response->json();
+
+                // Struktur Reddit JSON: array[0] = post, array[1] = comments
+                if (isset($data[0]['data']['children'][0]['data'])) {
+                    $post = $data[0]['data']['children'][0]['data'];
+                    $title = $post['title'] ?? '';
+                    $selftext = $post['selftext'] ?? '';
+
+                    $combined = trim($title . '. ' . $selftext);
+                    if (!empty($combined) && $combined !== '.') {
+                        return $combined;
+                    }
+                }
+            }
+        } catch (\Exception $e) {
+            Log::warning('Reddit JSON API failed: ' . $e->getMessage());
+        }
+
+        // Fallback ke meta tags
+        return $this->extractFromMeta($url);
     }
 
     /**
