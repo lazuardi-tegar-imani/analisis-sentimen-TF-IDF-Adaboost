@@ -6,6 +6,8 @@ use App\Http\Controllers\SentimenController;
 Route::post('/sentimen/csv', [SentimenController::class, 'csv'])->name('sentimen.csv');
 Route::post('/sentimen/single', [SentimenController::class, 'single'])->name('sentimen.single');
 Route::post('/sentimen/link', [SentimenController::class, 'link'])->name('sentimen.link');
+Route::post('/sentimen/link-data', [SentimenController::class, 'linkWithData'])->name('sentimen.link_data');
+Route::post('/sentimen/scrape', [SentimenController::class, 'scrapeByPlatform'])->name('sentimen.scrape');
 
 Route::get('/', function () {
     return redirect()->route('sentimen.index');

@@ -609,7 +609,8 @@ def predict_batch():
         for idx, text in enumerate(texts, 1):
             print(f"--- [{idx}/{len(texts)}] ---", flush=True)
             cleaned_text = preprocess_text(text, verbose=True)
-            text_vector = vectorizer.transform([cleaned_text])
+            text_vector_full = vectorizer.transform([cleaned_text])
+            text_vector = selector.transform(text_vector_full)
             prediction = model.predict(text_vector)[0]
             probabilities = model.predict_proba(text_vector)[0]
 
