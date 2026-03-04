@@ -322,9 +322,9 @@ class SentimenController extends Controller
                 
                 $results = [[
                     'source' => $platform . ': ' . $this->shortenUrl($url),
-                    'text' => $extractedText,
-                    'sentiment' => ucfirst($sentiment),
-                    'confidence' => $confidence,
+                    'text' => $this->cleanExtractedContent($postText),
+                    'sentiment' => ucfirst($prediction['sentiment']),
+                    'confidence' => $this->getMaxProbability($prediction['probabilities']),
                     'is_reliable' => true
                 ]];
 
